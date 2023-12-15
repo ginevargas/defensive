@@ -1,1 +1,1 @@
-This is our final project in defensive prog. 
+Compilation of my activities and project in defensive prog.
